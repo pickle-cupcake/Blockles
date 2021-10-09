@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "blockles:blocks/empty",
+    "up": "blockles:blocks/crafting_table_top_overlay",
+    "north": "blockles:blocks/crafting_table_front_overlay",
+    "east": "blockles:blocks/crafting_table_side_overlay",
+    "south": "blockles:blocks/crafting_table_side_overlay",
+    "west": "blockles:blocks/crafting_table_side_overlay",
+    "particle": "blockles:blocks/empty"
+  }
+}
